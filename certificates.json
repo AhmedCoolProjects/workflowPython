@@ -1,0 +1,205 @@
+[
+  {
+    "title": "Ads In Social Media",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/Advertising_In_Social_Media.png",
+    "createdAt": { "$date": "2020-11-28T20:37:16.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:37:16.456Z" }
+  },
+  {
+    "title": "AI Hacking",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/ai_hacking.png",
+    "createdAt": { "$date": "2020-11-28T20:28:20.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:28:20.456Z" }
+  },
+  {
+    "title": "Altissia English",
+    "sources": ["Altissia"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/altissia_en.png",
+    "createdAt": { "$date": "2020-11-28T20:45:33.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:45:33.456Z" }
+  },
+  {
+    "title": "Altissia Frensh",
+    "sources": ["Altissia"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/altissia_fr.png",
+    "createdAt": { "$date": "2020-11-28T20:31:31.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:31:31.456Z" }
+  },
+  {
+    "title": "Android Games",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/android_games.png",
+    "createdAt": { "$date": "2020-11-28T20:16:43.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:16:43.456Z" }
+  },
+  {
+    "title": "Arduino Programming",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/Arduino_Programming.png",
+    "createdAt": { "$date": "2020-11-28T20:22:43.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:22:43.456Z" }
+  },
+  {
+    "title": "Python 101 For Data Science",
+    "sources": ["IBM"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/c0.png",
+    "createdAt": { "$date": "2020-11-28T20:46:20.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:46:20.456Z" }
+  },
+  {
+    "title": "R 101",
+    "sources": ["IBM"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/c1.png",
+    "createdAt": { "$date": "2020-11-28T20:17:27.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:17:27.456Z" }
+  },
+  {
+    "title": "SQL & Relational Databases 101",
+    "sources": ["IBM"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/c2.png",
+    "createdAt": { "$date": "2020-11-28T20:19:49.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:19:49.456Z" }
+  },
+  {
+    "title": "Big Data 101",
+    "sources": ["IBM"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/c3.png",
+    "createdAt": { "$date": "2020-11-28T20:17:48.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:17:48.456Z" }
+  },
+  {
+    "title": "Hadoop 101",
+    "sources": ["IBM"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/c4.png",
+    "createdAt": { "$date": "2020-11-28T20:31:26.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:31:26.456Z" }
+  },
+  {
+    "title": "Data Visualization With Python",
+    "sources": ["IBM"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/c5.png",
+    "createdAt": { "$date": "2020-11-28T20:26:37.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:26:37.456Z" }
+  },
+  {
+    "title": "Deep Learning Fundamentals",
+    "sources": ["IBM"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/c6.png",
+    "createdAt": { "$date": "2020-11-28T20:27:28.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:27:28.456Z" }
+  },
+  {
+    "title": "CNN | Part 1",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/cnn_part1.png",
+    "createdAt": { "$date": "2020-11-28T20:37:34.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:37:34.456Z" }
+  },
+  {
+    "title": "CNN | Part 2",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/cnn_part2.png",
+    "createdAt": { "$date": "2020-11-28T20:40:36.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:40:36.456Z" }
+  },
+  {
+    "title": "Docker",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/docker.png",
+    "createdAt": { "$date": "2020-11-28T20:30:24.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:30:24.456Z" }
+  },
+  {
+    "title": "DSC",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/dsc.png",
+    "createdAt": { "$date": "2020-11-28T20:11:14.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:11:14.456Z" }
+  },
+  {
+    "title": "Firbase Storage",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/firebase_storage.png",
+    "createdAt": { "$date": "2020-11-28T20:45:48.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:45:48.456Z" }
+  },
+  {
+    "title": "GAE",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/gae.png",
+    "createdAt": { "$date": "2020-11-28T20:19:35.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:19:35.456Z" }
+  },
+  {
+    "title": "Introduction To GCP",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/gcp_introduction.png",
+    "createdAt": { "$date": "2020-11-28T20:30:14.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:30:14.456Z" }
+  },
+  {
+    "title": "Google Cloud Essentials",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/Google_Cloud_Essentials.png",
+    "createdAt": { "$date": "2020-11-28T20:48:28.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:48:28.456Z" }
+  },
+  {
+    "title": "Google Cloud Networking",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/Google_Cloud_Networking.png",
+    "createdAt": { "$date": "2020-11-28T20:37:22.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:37:22.456Z" }
+  },
+  {
+    "title": "How To Avoid Overfitting",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/How_To_Avoid_Overfitting.png",
+    "createdAt": { "$date": "2020-11-28T20:26:48.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:26:48.456Z" }
+  },
+  {
+    "title": "Intro To ML | Image Processing",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/Intro_to_ML_Image_Processing.png",
+    "createdAt": { "$date": "2020-11-28T20:48:33.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:48:33.456Z" }
+  },
+  {
+    "title": "Intro To ML | Language Processing",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/Intro_to_ML_Language_Processing.png",
+    "createdAt": { "$date": "2020-11-28T20:49:50.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:49:50.456Z" }
+  },
+  {
+    "title": "Jetpack Compose",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/jetpack_compose.png",
+    "createdAt": { "$date": "2020-11-28T20:26:10.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:26:10.456Z" }
+  },
+  {
+    "title": "ML | Images Detection",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/ml_images_detection.png",
+    "createdAt": { "$date": "2020-11-28T20:23:15.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:23:15.456Z" }
+  },
+  {
+    "title": "Project Management",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/project_management.png",
+    "createdAt": { "$date": "2020-11-28T20:15:27.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:15:27.456Z" }
+  },
+  {
+    "title": "RxJS",
+    "sources": ["GDG MENA"],
+    "image": "https://ahmedcoolprojects.github.io/portfolio/certificates/rxjs.png",
+    "createdAt": { "$date": "2020-11-28T20:48:39.456Z" },
+    "updatedAt": { "$date": "2020-11-28T20:48:39.456Z" }
+  }
+]
